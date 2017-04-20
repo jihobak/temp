@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Project: Build a Traffic Sign Recognition Program
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
@@ -53,6 +54,10 @@ jupyter notebook Traffic_Sign_Classifier.ipynb
 
 ### Requirements for Submission
 Follow the instructions in the `Traffic_Sign_Classifier.ipynb` notebook and write the project report using the writeup template as a guide, `writeup_template.md`. Submit the project code and writeup document.
+=======
+# temp
+temp repo
+>>>>>>> 600456e83a04868cf4770b2500fdf91b0ebf0750
 =======
 # temp
 temp repo
